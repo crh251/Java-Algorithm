@@ -6,12 +6,13 @@
 
 
 ## 2
-求区间交集，输入：
-1 2
-2 4
+求区间交集，输入：<br>
+1 2 <br>
+2 4 <br>
+2 3 <br>
+输出：<br>
 2 3
-输出：
-2 3
+<br>
 
 ```java
 import java.util.Scanner;
